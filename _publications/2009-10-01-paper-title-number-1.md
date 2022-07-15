@@ -7,6 +7,7 @@ venue: '10th International IEEE/EMBS Conference on Neural Engineering (NER)'
 paperurl: 'http://salimkhazem.github.io/files/NERkhazem.pdf'
 citation: 'S. Khazem, S. Chevallier, Q. Barthélemy, K. Haroun and C. Noûs, "Minimizing Subject-dependent Calibration for BCI with Riemannian Transfer Learning," 2021 10th International IEEE/EMBS Conference on Neural Engineering (NER), 2021, pp. 523-526, doi: 10.1109/NER49283.2021.9441279'
 ---
+---
 Recommended citation: S. Khazem, S. Chevallier, Q. Barthélemy, K. Haroun and C. Noûs, "Minimizing Subject-dependent Calibration for BCI with Riemannian Transfer Learning," 2021 10th International IEEE/EMBS Conference on Neural Engineering (NER), 2021, pp. 523-526, doi: 10.1109/NER49283.2021.9441279.
 
 [Download paper here](http://salimkhazem.github.io/files/NERkhazem.pdf)
