@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Computer Science and Electrical engineering, Paris-Est Marne-La-vallée University, 2019
+* M.S. in Robotics and Machine learning, Paris-Saclay University, 2021
+* Ph.D in Artificial Intelligence and Computer Vision, GeorgiaTech-CNRS & CentraleSupelec, 2024 (expected)
 
 Work experience
 ======
