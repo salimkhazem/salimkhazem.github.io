@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Salim Khzem"
+title                    : "Salim Khazem"
 title_separator          : "-"
-name                     : &name "Salim Khzem"
+name                     : &name "Salim Khazem"
 description              : &description "PhD Student at GeorgiaTech-CNRS & CentraleSupelec"
 url                      : https://salimkhazem.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
