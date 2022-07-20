@@ -17,6 +17,10 @@ Education
 
 Work experience
 ======
+* December 2021 - Present: Research AI at GeorgiaTech-CNRS & CentraleSupelec
+   * Supervision Project in AI 
+   * Supervision TPs 
+
 * March-September 2021: Data Scientist at Capgemini (Project: Smart Universal Robot (SUR))
    * Using Stacking and Ensemble architecture techniques for detection and estimation  of 6D pose of objects (Resnet + EfficientNet V2). 
    * Implementation of neural networks for anomalies and defects detection on aircrafts using camera.
