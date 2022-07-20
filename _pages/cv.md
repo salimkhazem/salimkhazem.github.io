@@ -17,24 +17,28 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* March-September 2021: Data Scientist at Capgemini (Project: Smart Universal Robot (SUR))
+   * Using Stacking and Ensemble architecture techniques for detection and estimation  of 6D pose of objects (Resnet + EfficientNet V2). 
+   * Implementation of neural networks for anomalies and defects detection on aircrafts using camera.
+   * Train and Inference using DGX server / Deployment On GCP using Docker images.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Dec 2020 - March 2021: Research Assistant (Project: Anomaly and outlier Detection using Deep Learning)
+   * Development of a new neural network architecture. 
+   * Exploratory data analysis / Preprocessing and features engineering / Classification
+   * Train and Inference using Azure Cloud Compute instance. 
+
+* Sept 2020 - Dec 2020: Research Assistant (Project: Transfer Learning for EEG signals in BCI)
+   * Data cleaning / Features engineering / Preprocessing \hfill  
+   * Implementation of pipelines and models of Machine Learning (Random Forest, SVM) for BCI. 
+   * Presentation of published article at IEEE NER 2021 conference 
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming language: Python, C/C++, Bash, SQL, NoSQL, Hadoop, PySpark, RAPIDS, Scala, SAS.
+* Topics: Data Science / Engineer, Machine Learning, Deep Learning, Computer Vision, NLP, Cloud Computing.
+* Dev tools: Pytorch, Scikit-learn, Tensorflow, Keras, Fastai, Git, Linux, Power BI, Docker, Kubernetes, Cuda, DGX.
+* Cloud architecture: Google Cloud Plateform (GCP), Azure Cloud.
+
 
 Publications
 ======
