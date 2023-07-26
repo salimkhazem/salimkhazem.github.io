@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -18,8 +18,8 @@ Education
 Work experience
 ======
 * December 2021 - Present: Research AI at GeorgiaTech-CNRS & CentraleSupelec
-   * Supervision Project in AI 
-   * Supervision TPs 
+   * Supervision Projects in AI 
+   * Teaching ML/DL and Labworks supervision  
 
 * March-September 2021: Data Scientist at Capgemini (Project: Smart Universal Robot (SUR))
    * Using Stacking and Ensemble architecture techniques for detection and estimation  of 6D pose of objects (Resnet + EfficientNet V2). 
@@ -50,18 +50,9 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
