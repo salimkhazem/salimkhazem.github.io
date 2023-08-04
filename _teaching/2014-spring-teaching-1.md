@@ -1,14 +1,26 @@
 ---
-title: "Teaching experience 1"
+title: "Machine learning"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "CentraleSupelec, SDI"
+date: 2022-10-02
+location: "Metz, France"
 ---
+- Ensemble Methods
+    * Decision trees 
+    * Bagging
+    * Boosting
 
-This is a description of a teaching experience. You can use markdown like any other post.
+- Support vector machines (SVM)
+    * Kernels 
+    * Classification 
+    * Regression 
+
+- Vector Quantization 
+    * K-means 
+    * Incremental neural networks 
+    * Self-organizing Maps 
 
 Heading 1
 ======
