@@ -20,6 +20,23 @@ location: "Metz, France"
     * Incremental neural networks 
     * Self-organizing Maps 
 
+
+---
+title: "Natural Language Processing"
+collection: teaching
+type: "Graduate course"
+permalink: /teaching/2014-spring-teaching-1
+venue: "CentraleSupelec, SDI"
+date: 2023-02-01
+location: "Metz, France"
+---
+- Language Modeling 
+- Sequence labeling tasks 
+- General NLP tasks: 
+    * Sentiment analysis 
+    * Classfication 
+    * NER 
+
 Heading 1
 ======
 
