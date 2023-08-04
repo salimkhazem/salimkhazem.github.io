@@ -11,12 +11,10 @@ location: "Metz, France"
     * Decision trees 
     * Bagging
     * Boosting
-
 - Support vector machines (SVM)
     * Kernels 
     * Classification 
     * Regression 
-
 - Vector Quantization 
     * K-means 
     * Incremental neural networks 
