@@ -4,14 +4,10 @@ collection: publications
 permalink: /publication/xray
 date: 2023-01-03
 venue: 'Journal: Artificial Intelligence in Agriculture'
-paperurl: 'Paper: https://www.sciencedirect.com/science/article/pii/S2589721722000289'
-
-citation: 'KHAZEM, Salim, RICHARD, Antoine, FIX, Jeremy, PRADALIER, Cedric. Deep learning for the detection of semantic features in tree X-ray CT scans. Artificial Intelligence in Agriculture, 2023, vol. 7, p. 13-26, doi: 10.1016/j.aiia.2022.12.001'
-
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S2589721722000289'
+citation: 'KHAZEM, Salim, RICHARD, Antoine, FIX, Jeremy, et al. Deep learning for the detection of semantic features in tree X-ray CT scans. Artificial Intelligence in Agriculture, 2023, vol. 7, p. 13-26, doi: 10.1016/j.aiia.2022.12.001'
 ---
-
 According to the industry, the value of wood logs is heavily influenced by their internal structure, particularly the distribution of knots within the trees. Nowadays, CT scanners combined with classical computer vision approach are the most common tool for obtaining reliable and accurate images of the interior structure of trees. Knowing where the tree semantic features, especially knots, contours and centers are within a tree could improve the efficiency of the overall tree industry by minimizing waste and enhancing the quality of wood-log by-products. However, this requires to automatically process the CT-scanner images so as to extract the different elements such as tree centerline, knot localization and log contour, in a robust and efficient manner. In this paper, we propose an effective methodology based on deep learning for performing these different tasks by processing CT-scanner images with deep convolutional neural networks. To meet this objective, three end-to-end trainable pipelines are proposed. The first pipeline is focused on centers detection using CNNs architecture with a regression head, the second and the third one address contour estimation and knot detection as a binary segmentation task based on an Encoder-Decoder architecture. The different architectures are tested on several tree species. With these experiments, we demonstrate that our approaches can be used to extract the different elements of trees in a precise manner while preserving good performances of robustness. The main objective was to demonstrate that methods based on deep learning might be used and have a relevant potential for segmentation and regression on CT-scans of tree trunks.
-
 ---
 Recommended citation: Khazem, S., Richard, A., Fix, J., & Pradalier, C. (2023). Deep learning for the detection of semantic features in tree X-ray CT scans. Artificial Intelligence in Agriculture, 7, 13-26., doi: 10.1016/j.aiia.2022.12.001. 
 
