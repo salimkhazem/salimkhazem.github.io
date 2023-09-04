@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/Transferlearning
 date: 2021-05-06
 venue: '10th International IEEE/EMBS Conference on Neural Engineering (NER)'
-paperurl: 'https://arxiv.org/pdf/2111.12071.pdf)'
+paperurl: 'https://arxiv.org/pdf/2111.12071.pdf'
 citation: 'S. Khazem, S. Chevallier, Q. Barthélemy, K. Haroun and C. Noûs, "Minimizing Subject-dependent Calibration for BCI with Riemannian Transfer Learning," 2021 10th International IEEE/EMBS Conference on Neural Engineering (NER), 2021, pp. 523-526, doi: 10.1109/NER49283.2021.9441279'
 ---
 Calibration is still an important issue for user experience in Brain-Computer Interfaces (BCI). Common experimental designs often involve a lengthy training period that raises the cognitive fatigue, before even starting to use the BCI. Reducing or suppressing this subject-dependent calibration is
@@ -13,5 +13,6 @@ reliability. We point out some key features to further improve transfer learning
 
 ---
 
-Recommended citation: 'S. Khazem, S. Chevallier, Q. Barthélemy, K. Haroun and C. Noûs, "Minimizing Subject-dependent Calibration for BCI with Riemannian Transfer Learning," 2021 10th International IEEE/EMBS Conference on Neural Engineering (NER), 2021, pp. 523-526, doi: 10.1109/NER49283.2021.9441279'
+Recommended citation: S. Khazem, S. Chevallier, Q. Barthélemy, K. Haroun and C. Noûs, "Minimizing Subject-dependent Calibration for BCI with Riemannian Transfer Learning," 2021 10th International IEEE/EMBS Conference on Neural Engineering (NER), 2021, pp. 523-526, doi: 10.1109/NER49283.2021.9441279
+
 Paper: [Download paper here](https://arxiv.org/pdf/2111.12071.pdf)
