@@ -13,4 +13,5 @@ The quality of a wood log in the wood industry depends heavily on the presence o
 ---
 Recommended citation: KHAZEM, Salim, FIX, Jeremy, et PRADALIER, Cedric. Improving Knot Prediction in Wood Logs with Longitudinal Feature Propagation. arXiv preprint arXiv:2308.11291, 2023.
 
+Paper: 'https://arxiv.org/pdf/2308.11291.pdf'
 [Download paper here](https://arxiv.org/pdf/2308.11291.pdf)
