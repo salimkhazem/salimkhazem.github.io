@@ -13,4 +13,5 @@ reliability. We point out some key features to further improve transfer learning
 
 ---
 
+Recommended citation: 'S. Khazem, S. Chevallier, Q. Barthélemy, K. Haroun and C. Noûs, "Minimizing Subject-dependent Calibration for BCI with Riemannian Transfer Learning," 2021 10th International IEEE/EMBS Conference on Neural Engineering (NER), 2021, pp. 523-526, doi: 10.1109/NER49283.2021.9441279'
 Paper: [Download paper here](https://arxiv.org/pdf/2111.12071.pdf)
