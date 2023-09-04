@@ -13,4 +13,4 @@ reliability. We point out some key features to further improve transfer learning
 
 ---
 
-[Download paper here](https://arxiv.org/pdf/2111.12071.pdf)
+Paper: [Download paper here](https://arxiv.org/pdf/2111.12071.pdf)
