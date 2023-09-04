@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/xray
 date: 2023-01-03
 venue: 'Journal: Artificial Intelligence in Agriculture'
-paperurl: 'https://www.sciencedirect.com/science/article/pii/S2589721722000289'
+paperurl: 'Paper: https://www.sciencedirect.com/science/article/pii/S2589721722000289'
 
 citation: 'KHAZEM, Salim, RICHARD, Antoine, FIX, Jeremy, PRADALIER, Cedric. Deep learning for the detection of semantic features in tree X-ray CT scans. Artificial Intelligence in Agriculture, 2023, vol. 7, p. 13-26, doi: 10.1016/j.aiia.2022.12.001'
 
