@@ -38,6 +38,7 @@ Work experience
   
 Skills
 ======
+* General: Problem-solving proficiency, Ability to work independentyly, Advanced synthesis and characterization, Deep-dive data analysis. 
 * Programming language: Python, C/C++, Bash, SQL, NoSQL, Hadoop, PySpark, RAPIDS, Scala, SAS.
 * Topics: Data Science / Engineer, Machine Learning, Deep Learning, Computer Vision, NLP, Cloud Computing.
 * Dev tools: Pytorch, Scikit-learn, Tensorflow, Keras, Fastai, Git, Linux, Power BI, Docker, Kubernetes, Cuda, DGX.
