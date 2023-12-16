@@ -11,15 +11,16 @@ redirect_from:
 
 Education
 ======
-* B.S. Computer Science and Electrical engineering, Paris-Est Marne-La-vallée University, 2019
-* M.S. in Robotics and Machine learning, Paris-Saclay University, 2021
 * Ph.D in Artificial Intelligence and Computer Vision, GeorgiaTech-CNRS & CentraleSupelec, 2024 (expected)
+* M.S. in Robotics and Machine learning, Paris-Saclay University, 2021
+* B.S. Computer Science and Electrical engineering, Paris-Est Marne-La-vallée University, 2019
 
 Work experience
 ======
 * December 2021 - Present: Research AI at GeorgiaTech-CNRS & CentraleSupelec
-   * Supervision Projects in AI 
-   * Teaching ML/DL and Labworks supervision  
+   * Consulting in R&D company.
+   * Supervision Projects in AI. 
+   * Teaching ML/DL and Labworks supervision.  
 
 * March-September 2021: Data Scientist at Capgemini (Project: Smart Universal Robot (SUR))
    * Using Stacking and Ensemble architecture techniques for detection and estimation  of 6D pose of objects (Resnet + EfficientNet V2). 
